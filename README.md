@@ -1,6 +1,7 @@
 # match_number
 
 A new Flutter project.
+A simple number match app that let the user to choose the correct Myanmar number to match the given English number.
 
 ## Getting Started
 
